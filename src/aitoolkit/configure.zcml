@@ -20,9 +20,9 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="aitoolkit"
+      title="AI Toolkit"
       directory="profiles/default"
-      description="Installs the aitoolkit add-on."
+      description="Installs the AI tools ranging from content creation to frontend chatbot."
       provides="Products.GenericSetup.interfaces.EXTENSION"
       post_handler=".setuphandlers.post_install"
       />
@@ -42,5 +42,8 @@
       />
 
   <!-- -*- extra stuff goes here -*- -->
+
+    <include package=".controlpanels" />
+
 
 </configure>
