@@ -2,6 +2,16 @@
    If you want to learn more about writing documentation, please check out: http://docs.plone.org/about/documentation_styleguide.html
    This text does not appear on PyPI or github. It is a comment.
 
+
+.. |check_| raw:: html
+
+    <input checked=""  disabled="" type="checkbox">
+
+
+.. |uncheck_| raw:: html
+
+    <input disabled="" type="checkbox">
+
 =========
 aitoolkit
 =========
@@ -14,22 +24,22 @@ Features
 --------
 Below includes initial features that are planned for the add-on:
 
-- Natural language processing for content analysis
-- Content summarization for long articles and documents
-- Automatic tag and category suggestion for new content
-- Smart search enhancement with semantic understanding
-- AI-powered content recommendations based on user behavior
-- Automatic image captioning and alt-text generation
-- Document classification and organization
-- Sentiment analysis for comments and user-generated content
-- Chatbot integration for user support and navigation assistance
-- Text translation capabilities for multilingual sites
-- Content moderation for detecting inappropriate material
-- SEO improvement suggestions for content creators
-- Personalized user experience based on browsing patterns
-- Automatic content formatting and styling suggestions
-- Voice search and navigation capabilities
-- Analytics insights with AI-driven recommendations
+- |uncheck_| Natural language processing for content analysis
+- |uncheck_| Content summarization for long articles and documents
+- |uncheck_| Automatic tag and category suggestion for new content
+- |uncheck_| Smart search enhancement with semantic understanding
+- |uncheck_| AI-powered content recommendations based on user behavior
+- |uncheck_| Automatic image captioning and alt-text generation
+- |uncheck_| Document classification and organization
+- |uncheck_| Sentiment analysis for comments and user-generated content
+- |uncheck_| Chatbot integration for user support and navigation assistance
+- |uncheck_| Text translation capabilities for multilingual sites
+- |uncheck_| Content moderation for detecting inappropriate material
+- |uncheck_| SEO improvement suggestions for content creators
+- |uncheck_| Personalized user experience based on browsing patterns
+- |uncheck_| Automatic content formatting and styling suggestions
+- |uncheck_| Voice search and navigation capabilities
+- |uncheck_| Analytics insights with AI-driven recommendations
 
 
 Examples
