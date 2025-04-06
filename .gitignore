@@ -16,6 +16,7 @@ htmlcov/
 include/
 lib/
 local/
+venv/
 node_modules/
 parts/
 dist/*
